@@ -1,14 +1,12 @@
-# OG Tech PC Solutions
+# ARB  Solutions
 
 E-commerce web app project based on mvc model. Inspired by IdealTechPC. Neon theme.
 
-Built with ❤︎ by Andrew TCH88 and contributors
+Built with ❤︎ by Adem Ruda and Ronaldo Balla
 
 # Frontend
-![image](https://user-images.githubusercontent.com/59404615/208036926-a4863d53-8c29-43cd-9da4-8fbd99eb6909.png)
+![image](https://th.bing.com/th/id/OIP.nQ9Q0SsDiofQqD09dZBWRQHaCv?rs=1&pid=ImgDetMain)
 
-# Backend
-![image](https://user-images.githubusercontent.com/59404615/208041648-db078e66-0e85-420b-898a-5964d902abbf.png)
 
 
 # 🚀 Features
@@ -28,9 +26,9 @@ Built with ❤︎ by Andrew TCH88 and contributors
 5. Run xampp.
 ![image](https://user-images.githubusercontent.com/59404615/208037550-c3c61ced-0176-49bc-ac5a-95c6b3248a5c.png)
 
-6. Next, go to phpmyadmin localhost web to create a database with ogtech as its name.
-7. Import all the sql data from the OGTECH.sql file in the root project directory.
-8. At the browser, open the web app url http://127.0.0.1//OGTECH/index.php
+6. Next, go to phpmyadmin localhost web to create a database with Arbtech as its name.
+7. Import all the sql data from the Arbtech.sql file in the root project directory.
+8. At the browser, open the web app url http://127.0.0.1//Arbtech/index.php
 8. You can now use this with the credentials stated below.
 
 # Default Accounts
