@@ -48,4 +48,4 @@ Check out the contributing page to see the best places to file issues, start dis
 Probably make it in laravel framework and integrate Stripe with it. And responsive.
 
 # Open Source?
-Hmm, depends cause I prolly offer the license for sale, it's my intellectual property bro.
+Yeep 
