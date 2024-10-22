@@ -10,8 +10,8 @@
     require_once "includes/class_autoloader.php";
 
     // database initialization
-    $dbinit = new InitDB();
-    $dbinit->initDbExec();
+    //$dbinit = new InitD();
+    //$dbinit->initDbExec();.\
   ?>
 </head>
 <body>
